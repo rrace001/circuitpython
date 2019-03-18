@@ -275,7 +275,7 @@
 
 // Whether to emit thumb native code
 #ifndef MICROPY_EMIT_THUMB
-#define MICROPY_EMIT_THUMB (0)
+#define MICROPY_EMIT_THUMB (1)
 #endif
 
 // Whether to enable the thumb inline assembler
